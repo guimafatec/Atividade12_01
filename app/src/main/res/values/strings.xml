@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Atividade12_01</string>
+    <string name="my_name">Gustavo Guimarães de Oliveira</string>
+    <string name="my_ra">1110482313013</string>
+    <string name="inicio">Times e Jogadores</string>
+
+    <!-- CRUD -->
+    <string name="inserir">Inserir</string>
+    <string name="modificar">Modificar</string>
+    <string name="excluir">Excluir</string>
+    <string name="listar">Listar</string>
+
+    <!-- JOGADOR -->
+    <string name="jogador">Jogador</string>
+    <string name="etCodigoJogador">Código</string>
+    <string name="btnBuscarJogador">Buscar</string>
+    <string name="etNomeJogador">Nome</string>
+    <string name="etDataNascimento">YYYY-MM-DD</string>
+    <string name="etAlturaJogador">Altura</string>
+    <string name="etPesoJogador">Peso</string>
+
+    <!-- TIME -->
+    <string name="time">Time</string>
+    <string name="etCodigoTime">Código</string>
+    <string name="btnBuscarTime">Buscar</string>
+    <string name="etNomeTime">Nome</string>
+    <string name="etCidadeTime">Cidade</string>
+
+</resources>
